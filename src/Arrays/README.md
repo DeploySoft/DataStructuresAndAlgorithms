@@ -1,8 +1,8 @@
-#Arrays
+# Arrays
 
 Creating array implies that you must specify the length (arrays have  static length) because JVM will create a contiguous space in memory and for that reason, the arrays cannot be resized because there'd be no guarantee after that
 
-##Get memory address
+## Get memory address
 
 ```textmate
  X + i * Y
@@ -24,7 +24,7 @@ Address memory of  intArray[2] =  8 + (2*4) = 16
 ```
 
 
-##Actions in Arrays
+## Actions in Arrays
 
 | Operation | Complexity |
 | ------ | ------ |
@@ -40,4 +40,6 @@ Address memory of  intArray[2] =  8 + (2*4) = 16
 
 * Arrays is a static data structure
 * If you'll use data in array you should know the index of the data to avoid a searching algorithm
+
+[Back Home](../../README.md)
  

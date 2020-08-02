@@ -1,10 +1,38 @@
-# DataStructuresAndAlgorithms
+# DataStructures and Algorithms with Java
 
 ## Topics
 - [Big-O Notation](graphic-representation)
 - [Arrays](src/Arrays/README.md)
-
-
+- [Sort Algorithms]()
+    - [Bubble]()
+    - [Stable]()
+    - [Unstable]()
+    - [Selection]()
+    - [Insertion]()
+    - [Shell]()
+    - [Recursion]()
+    - [Merge]()
+    - [Quick]()
+    - [Counting]()
+    - [Radix]()
+    - [Radix]()
+- [Lists]()
+    - [Array List]()
+    - [Vectors]()
+    - [Singly]()
+    - [Doubly]()
+- [Stacks]()
+- [Queues]()
+    - [Circular]()
+- [Hashtables]()
+    - [Linear Probing]()
+    - [Chaining]()
+    - [Bucket Sort]()
+- [Search Algorithms]()
+    -  [Linear Search]()
+    -  [Binary Search]()
+- [Trees]()
+- [Heaps]()
 
 
 ### Big-O Notation
