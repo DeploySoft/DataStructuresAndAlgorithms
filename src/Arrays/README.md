@@ -22,7 +22,22 @@ Address memory of  intArray[0] =  8
 Address memory of  intArray[1] =  8 + (1*4) = 12
 Address memory of  intArray[2] =  8 + (2*4) = 16
 ```
-####keep in mind
+
+
+### Actions in Arrays
+
+| Operation | Complexity |
+| ------ | ------ |
+| Retrieve with index| O(1) |
+| Retrieve without index | O(n) |
+| Add an element to a full index array | O(n) |
+| Add an element to the end of an array | O(1) |
+| Insert or update an element at a specific index | O(1)
+| Delete an element by setting it to null | O(1) |
+| Delete an element by shifting elements | O(n) |
+
+#### Keep in mind
+
 * Arrays is a static data structure
 * If you'll use data in array you should know the index of the data to avoid a searching algorithm
  
