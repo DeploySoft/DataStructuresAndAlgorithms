@@ -2,7 +2,7 @@
 
 ## Topics
 - [Big-O Notation](#Notation)
-- [Arrays](#src/Arrays)
+- [Arrays](src/Arrays.md)
 
 
 
