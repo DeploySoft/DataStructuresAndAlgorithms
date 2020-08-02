@@ -1,7 +1,7 @@
 # DataStructures and Algorithms with Java
 
 ## Topics
-- [Big-O Notation](graphic-representation)
+- [Big-O Notation](#graphic-representation)
 - [Arrays](src/Arrays/README.md)
 - [Sort Algorithms]()
     - [Bubble]()
