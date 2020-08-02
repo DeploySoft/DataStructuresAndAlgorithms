@@ -1,8 +1,8 @@
 # DataStructuresAndAlgorithms
 
 ## Topics
-- [Big-O Notation](Graphic Representation)
-- [Arrays](#Arrays)
+- [Big-O Notation](#Notation)
+- [Arrays](#src/Arrays)
 
 
 
