@@ -3,7 +3,7 @@
 ## Topics
 - [Big-O Notation](#graphic-representation)
 - [Arrays](src/Arrays/README.md)
-- [Sort Algorithms]()
+- Sort Algorithms
     - [Bubble](src/SortAlgorithms/README.md)
     - [Stable]()
     - [Unstable]()
