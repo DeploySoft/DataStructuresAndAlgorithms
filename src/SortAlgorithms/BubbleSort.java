@@ -43,7 +43,7 @@ public class BubbleSort {
             //You shouldn't swap it
             return;
         }
-        //Swaping
+        //Swapping
         int temp = array[i]; // O(n)
         array[i] = array[j];
         array[j] = temp;
