@@ -1,4 +1,4 @@
-##Sort Algorithms
+## Sort Algorithms
 ### Bubble sort
 #### In-Place algorithm
 _"Transforms input using no auxiliary data structure. It updates input sequence only through replacement or swapping"
