@@ -22,7 +22,11 @@ Stable is when the algorithm  if it maintains the relative order but if the algo
 - 10 items will take 100 steps, **n** items will take **n²**
 - Unstable Sort
 
+### Insertion Sort
 
+- In-Place Algorithm
+- O(n²) **Quadratic**
+- Stable Sort (It uses shifting)
 
 [Back Home](../../README.md)
 
