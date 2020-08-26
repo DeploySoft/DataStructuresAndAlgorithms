@@ -9,7 +9,7 @@
     - [Unstable](src/SortAlgorithms/README.md#unstable-sort-vs-stable-sort-theory)
     - [Selection](src/SortAlgorithms/README.md#selection-sort)
     - [Insertion](src/SortAlgorithms/README.md#insertion-sort)
-    - [Shell]()
+    - [Shell](src/SortAlgorithms/README.md#shell-sort)
     - [Recursion]()
     - [Merge]()
     - [Quick]()

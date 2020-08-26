@@ -28,5 +28,16 @@ Stable is when the algorithm  if it maintains the relative order but if the algo
 - O(n²) **Quadratic**
 - Stable Sort (It uses shifting)
 
+### Shell Sort
+
+- Variation of insertion sort
+- Less shifting
+- [Knuth Sequence](https://en.wikipedia.org/wiki/Shellsort#Gap_sequences) 
+- Big gap (K) to validate
+- K = n/2 if K is equals to  1 will convert in Insertion Sort ( n length of array)
+- In-Place Algorithm
+- O(n²) **Quadratic**
+- Unstable Sort
+
 [Back Home](../../README.md)
 
