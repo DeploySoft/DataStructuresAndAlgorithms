@@ -39,5 +39,11 @@ Stable is when the algorithm  if it maintains the relative order but if the algo
 - O(n²) **Quadratic**
 - Unstable Sort
 
+### Recursive
+- A lower performance   
+- Your call will be stack
+- It's more formal than other ways of coding
+![recursive](http://www.algolist.net/img/recursion.png)
+
 [Back Home](../../README.md)
 
