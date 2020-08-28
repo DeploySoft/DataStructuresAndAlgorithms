@@ -10,7 +10,7 @@
     - [Selection](src/SortAlgorithms/README.md#selection-sort)
     - [Insertion](src/SortAlgorithms/README.md#insertion-sort)
     - [Shell](src/SortAlgorithms/README.md#shell-sort)
-    - [Recursion]()
+    - [Recursion](src/SortAlgorithms/README.md#recursive)
     - [Merge]()
     - [Quick]()
     - [Counting]()

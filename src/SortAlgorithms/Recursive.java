@@ -46,6 +46,7 @@ public class Recursive {
      *
      * @param num factorial wished
      * @return factorial result
+     * @throws StackOverflowError
      */
     public static int recursiveFactorial(int num) {
         //breaking condition
