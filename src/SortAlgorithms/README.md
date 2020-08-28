@@ -43,6 +43,7 @@ Stable is when the algorithm  if it maintains the relative order but if the algo
 - A lower performance   
 - Your call will be stack
 - It's more formal than other ways of coding
+- You'll need to use a breaking condition
 ![recursive](http://www.algolist.net/img/recursion.png)
 
 [Back Home](../../README.md)
