@@ -46,5 +46,10 @@ Stable is when the algorithm  if it maintains the relative order but if the algo
 - You'll need to use a breaking condition
 ![recursive](http://www.algolist.net/img/recursion.png)
 
+### Merge Sort
+- Recursive Algorithm
+- Splitting and Merging
+- Not In-Place Algorithm
+
 [Back Home](../../README.md)
 
