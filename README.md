@@ -11,7 +11,7 @@
     - [Insertion](src/SortAlgorithms/README.md#insertion-sort)
     - [Shell](src/SortAlgorithms/README.md#shell-sort)
     - [Recursion](src/SortAlgorithms/README.md#recursive)
-    - [Merge]()
+    - [Merge](src/SortAlgorithms/README.md#merge-sort)
     - [Quick]()
     - [Counting]()
     - [Radix]()
