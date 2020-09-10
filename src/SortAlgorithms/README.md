@@ -50,6 +50,8 @@ Stable is when the algorithm  if it maintains the relative order but if the algo
 - Recursive Algorithm
 - Splitting and Merging
 - Not In-Place Algorithm
+- Stable Sort
+- O(nlongn)
 
 [Back Home](../../README.md)
 
