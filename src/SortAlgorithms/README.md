@@ -58,6 +58,8 @@ Stable is when the algorithm  if it maintains the relative order but if the algo
 - Use Pivot
 - In-Place Algorithm
 - O(n log n) in the worst case, it makes O(n²)
+- Unstable Algorithm
+- Recursive Algorithm
 
 ![QuickSort](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
@@ -69,7 +71,8 @@ Or pivot element is the element of a matrix, or an array, which is selected firs
 an in-place algorithm is an algorithm which transforms input using no auxiliary data structure and algorithm which is not in-place is sometimes called **not-in-place** or **out-of-place**
 ### Recursion
 Is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem.
-
+### Unstable Algorithm
+TODO
 
 [Back Home](../../README.md)
 
