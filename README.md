@@ -13,7 +13,7 @@
     - [Recursion](src/SortAlgorithms/README.md#recursive)
     - [Merge](src/SortAlgorithms/README.md#merge-sort)
     - [Quick](src/SortAlgorithms/README.md#quick-sort)
-    - [Counting]()
+    - [Counting](src/SortAlgorithms/README.md#counting-sort)
     - [Radix]()
     - [Radix]()
 - [Lists]()

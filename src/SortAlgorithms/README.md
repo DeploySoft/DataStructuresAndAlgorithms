@@ -64,6 +64,11 @@ Stable is when the algorithm  if it maintains the relative order but if the algo
 ![QuickSort](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
 
+### Counting Sort
+- O(n) Linear
+- non-describe values
+- Not In-Place Algorithm
+
 ## More
 ### Pivot
 Or pivot element is the element of a matrix, or an array, which is selected first by an algorithm, to do certain calculations.
