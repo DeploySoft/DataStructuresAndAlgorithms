@@ -11,11 +11,6 @@ _"Transforms input using no auxiliary data structure. It updates input sequence 
 - Non constant extra space O(n) sometime O(logn)
 - Stable Sort
 
-### Unstable Sort vs Stable Sort (Theory)
-
-Stable is when the algorithm  if it maintains the relative order but if the algorithm swap them then it becomes unstable. 
-![vs](https://qph.fs.quoracdn.net/main-qimg-68f8693fb296255feb9d8c457ca73c9d "Comparison")
-
 ### Selection sort
 
 - O(n²) **Quadratic**
@@ -77,7 +72,9 @@ an in-place algorithm is an algorithm which transforms input using no auxiliary 
 ### Recursion
 Is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem.
 ### Unstable Algorithm
-TODO
+Stable is when the algorithm  if it maintains the relative order but if the algorithm swap them then it becomes unstable. 
+![vs](https://qph.fs.quoracdn.net/main-qimg-68f8693fb296255feb9d8c457ca73c9d "Comparison")
+
 
 [Back Home](../../README.md)
 
