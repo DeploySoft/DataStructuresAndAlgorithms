@@ -59,7 +59,7 @@ _"Transforms input using no auxiliary data structure. It updates input sequence 
 ![QuickSort](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
 
-### Counting Sort
+### Counting Sort (Unstable)
 - O(n) Linear
 - non-describe values
 - Not In-Place Algorithm
@@ -69,6 +69,11 @@ _"Transforms input using no auxiliary data structure. It updates input sequence 
 - Data must be integers or strings
 - O(n)
 - In-Place Algorithm
+
+### Stable Counting Sort
+- as [counting sort but](README.md#counting-sort-unstable) with more steps
+- In-Place Algorithm
+
 
 
 ## More
