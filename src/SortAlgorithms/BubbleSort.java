@@ -6,6 +6,7 @@ public class BubbleSort {
 
     public static void main(String... args) {
         int[] rightToLef = {35, 45, -50, 12, 18};
+        int[] leftToRight = {35, 45, -50, 12, 18};
 
         //Bubble sort reading right to left
         for (int lastUnsortedIndex = rightToLef.length - 1; lastUnsortedIndex > 0; lastUnsortedIndex--) {
@@ -16,6 +17,18 @@ public class BubbleSort {
             }
         }
         System.out.println(Arrays.toString(rightToLef));
+
+        //Bubble sort reading left to right
+        for (int firstIndex = 0; firstIndex < leftToRight.length - 1; firstIndex++) {
+            for (int i = leftToRight.length - 1; i > firstIndex; i--) {
+                if (leftToRight[i] > leftToRight[i - 1]) {
+                    swap(leftToRight, i, i - 1);
+                }
+            }
+        }
+
+
+        System.out.println(Arrays.toString(leftToRight));
     }
 
     /**
