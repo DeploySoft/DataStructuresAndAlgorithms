@@ -22,5 +22,14 @@ TODO
 Similar to Arrays list just that here doesn't exist the index so manipulate of data have to do through  points
 This points are related with the next element in the list E.g:
 ![LinkedList](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png "SinglyLinkedList")
+
 * O(n) to add or remove and element in a specific point since we have to traverse the list
+
+## Doubly Linked Lists
+
+
+![DoublyList](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doubly-linked-list.svg/610px-Doubly-linked-list.svg.png "DoublyLinkedList")
+* O(n) to add or remove and element in a specific point since we have to traverse the list
+
+
 

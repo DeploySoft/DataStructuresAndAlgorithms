@@ -27,6 +27,7 @@ public class LinkedList {
 class AttributeLinkedList {
 
     private AttributeNode head;
+    private AttributeNode tail;
     private int size;
 
     public void addToFront(Attribute attribute) {
@@ -74,6 +75,15 @@ class AttributeNode {
     private Attribute attribute;
 
     private AttributeNode next;
+    private AttributeNode previous;
+
+    public AttributeNode getPrevious() {
+        return previous;
+    }
+
+    public void setPrevious(AttributeNode previous) {
+        this.previous = previous;
+    }
 
     public AttributeNode(Attribute attribute) {
         this.attribute = attribute;
