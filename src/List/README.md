@@ -15,7 +15,8 @@ Arrays list you have to define its capacity <br>
 
 
 ## Vectors
-TODO
+
+Same as [array list](#array-list) just is a safe thread in Java
 
 ## Singly Linked Lists
 
