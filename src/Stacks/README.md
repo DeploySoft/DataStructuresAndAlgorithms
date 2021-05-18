@@ -14,3 +14,8 @@ Time Complexity
 
 
 
+![Stack](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png "stack")
+
+
+
+
