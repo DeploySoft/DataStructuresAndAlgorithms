@@ -24,7 +24,7 @@
 - [Stacks](src/Stacks/README.md)
 - [Queues]()
     - [Circular]()
-- [Hashtables]()
+- [HashTables]()
     - [Linear Probing]()
     - [Chaining]()
     - [Bucket Sort]()
@@ -56,4 +56,8 @@
 #### Convention
 | X | Y |
 |---|---|
-| inputs  | steps  |
+| Elements  | Operations  |
+
+### References
+
+* [Complexities](https://www.bigocheatsheet.com/)

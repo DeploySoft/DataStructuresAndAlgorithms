@@ -87,6 +87,12 @@ Is a method of solving a problem where the solution depends on solutions to smal
 Stable is when the algorithm  if it maintains the relative order but if the algorithm swap them then it becomes unstable. 
 ![vs](https://qph.fs.quoracdn.net/main-qimg-68f8693fb296255feb9d8c457ca73c9d "Comparison")
 
+### General Complexity
+
+![general complexity](https://cdn-media-1.freecodecamp.org/images/2srsSpuZG0821IdAizBRdVVivfdyTCpMwNnT "General complexity")
+Source: [http://bigocheatsheet.com/]()
+
+
 
 [Back Home](../../README.md)
 

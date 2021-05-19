@@ -36,6 +36,12 @@ Address memory of  intArray[2] =  8 + (2*4) = 16
 | Delete an element by setting it to null | O(1) |
 | Delete an element by shifting elements | O(n) |
 
+![image](https://user-images.githubusercontent.com/31944043/118740753-3dc25480-b812-11eb-8b67-52d5418836b7.png)
+Source: [http://bigocheatsheet.com/]()
+
+
+![Notation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/250px-Comparison_computational_complexity.svg.png "Graphic")
+
 #### Keep in mind
 
 * Arrays is a static data structure
