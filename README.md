@@ -22,7 +22,7 @@
     - [Singly](src/List/README.md#singly-linked-lists)
     - [Doubly](src/List/README.md#doubly-linked-lists)
 - [Stacks](src/Stacks/README.md)
-- [Queues]()
+- [Queues](src/Queues/README.md)
     - [Circular]()
 - [HashTables]()
     - [Linear Probing]()
@@ -51,8 +51,11 @@
 | O(n²)   | Quadratic     |
 +---------+---------------+
 ```
+_Complexity is measure in time of execution and memory of execution_
+
 #### Graphic Representation
 ![Notation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/250px-Comparison_computational_complexity.svg.png "Graphic")
+
 #### Convention
 | X | Y |
 |---|---|
